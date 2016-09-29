@@ -6,11 +6,7 @@
 <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script type="text/javascript">
 jQuery(function($){
-	setTimeout(function(){
-		alert('Huehuebr');
-		console.log('testando');
-		javascript:Journal.openPopup('20');
-	},5000);
+	console.log('teste 3');
 });
 </script>
 </body>
