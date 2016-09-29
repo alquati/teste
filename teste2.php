@@ -8,6 +8,7 @@
 jQuery(function($){
 	setTimeout(function(){
 		alert('Huehuebr');
+		console.log('teste');
 		javascript:Journal.openPopup('20');
 	},5000);
 });
