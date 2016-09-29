@@ -7,7 +7,7 @@
 <script type="text/javascript">
 jQuery(function($){
 	setTimeout(function(){
-		//alert('Huehuebr');
+		alert('Huehuebr');
 		javascript:Journal.openPopup('20');
 	},5000);
 });
